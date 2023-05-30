@@ -1,5 +1,6 @@
 ---
 title: My First Post
+author: neetw
 date: 2023-02-02 09:15:15 +0530
 categories: [Thoughts, Miscellaneous]
 tags: [misc]     # TAG names should always be lowercase
